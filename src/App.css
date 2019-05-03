@@ -1,0 +1,22 @@
+.container{
+  text-align: center
+}
+
+.box{
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  display: inline-block; 
+ line-height: 80px;  /* display the x in center */
+}
+
+.board{
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 320px
+}
+.changes{
+  width: 120px;
+   height: 60px;
+
+}
